@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import psycopg2
 import re
@@ -7,7 +8,7 @@ conn= psycopg2.connect(
     port=5433,
     database="tourenplanung",
     user="postgres",
-    password="postgres"
+    password=os.environ.get("PGPASSWORD", "postgres")
 )
 print("Verbindung OK")
 

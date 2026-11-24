@@ -3,3 +3,5 @@
 osrm/
 _loesung/
 vroom-conf/access.log
+__pycache__/
+*.pyc

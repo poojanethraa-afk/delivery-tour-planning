@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import psycopg2
 import requests
@@ -8,7 +9,7 @@ conn = psycopg2.connect(
     port=5433,
     database="tourenplanung",
     user="postgres",
-    password="postgres"
+    password=os.environ.get("PGPASSWORD", "postgres")
 )
 
 # 2. Aufträge mit Koordinaten aus der Datenbank lesen
