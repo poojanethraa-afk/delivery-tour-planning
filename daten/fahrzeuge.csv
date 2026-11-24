@@ -1,0 +1,7 @@
+kennzeichen;typ;kapazitaet_kisten;schicht_von;schicht_bis;kleinfahrzeug;kosten_pro_km
+R-GD 101;Sprinter 3,5t;120;06:00;14:30;j;0.45
+R-GD 102;Sprinter 3,5t;120;06:00;14:30;j;0.45
+R-GD 201;LKW 7,5t;380;06:00;14:30;n;0.8
+R-GD 202;LKW 7,5t;380;06:00;14:30;n;0.8
+R-GD 203;LKW 7,5t;380;06:00;14:30;n;0.8
+R-GD 301;LKW 12t;640;06:00;14:30;n;1.1

@@ -1,0 +1,21 @@
+services:
+  osrm:
+    image: ghcr.io/project-osrm/osrm-backend
+    container_name: osrm
+    command: osrm-routed --algorithm mld /data/oberpfalz-latest.osrm
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./osrm:/data
+
+  vroom:
+    image: ghcr.io/vroom-project/vroom-docker:v1.14.0
+    container_name: vroom
+    environment:
+      VROOM_ROUTER: osrm
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./vroom-conf:/conf
+    depends_on:
+      - osrm

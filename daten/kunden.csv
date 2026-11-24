@@ -1,0 +1,57 @@
+kunden_nr;name;typ;strasse;plz;ort;lat;lon;zufahrt
+K-1001;Hotel Brauhof;Hotel;Goliathstraße 6;93047;Regensburg;49.01773;12.09372;nur_kleinfahrzeug
+K-1002;Gasthaus Schwarzer Adler;Gasthaus;Wahlenstraße 3;93047;Regensburg;49.01993;12.09943;nur_kleinfahrzeug
+K-1003;Kiosk Kraus;Kiosk;Keplerstraße 24;93047;Regensburg;49.0209;12.09265;nur_kleinfahrzeug
+K-1004;Getränkemarkt Lang;Getränkemarkt;Hinter der Grieb 21;93047;Regensburg;49.01727;12.09612;nur_kleinfahrzeug
+K-1005;Sportheim SC Regensburg;Sportheim;Glockengasse 22;93047;Regensburg;49.01812;12.09911;nur_kleinfahrzeug
+K-1006;Gasthaus Am Markt;Gasthaus;Rote-Hahnen-Gasse 27;93047;Regensburg;49.0195;12.09724;nur_kleinfahrzeug
+K-1007;Sportheim SV Regensburg;Sportheim;Ringstraße 42;93051;Regensburg;49.00256;12.09949;normal
+K-1008;Sportheim FC Regensburg;Sportheim;Schulstraße 58;93051;Regensburg;49.00663;12.08988;normal
+K-1009;Gasthaus Zum Stern;Gasthaus;Kirchplatz 53;93051;Regensburg;49.00776;12.09283;normal
+K-1010;Gasthaus Am Weiher;Gasthaus;Mühlweg 18;93049;Regensburg;49.02259;12.0433;normal
+K-1011;Getränkemarkt Wagner;Getränkemarkt;Am Anger 10;93049;Regensburg;49.0161;12.04502;normal
+K-1012;Hotel Am See;Hotel;Gartenstraße 33;93055;Regensburg;48.9824;12.14715;normal
+K-1013;Gasthaus Zur Linde;Gasthaus;Bahnhofstraße 41;93055;Regensburg;48.98107;12.14393;normal
+K-1014;Getränkemarkt Weber;Getränkemarkt;Bergstraße 14;93059;Regensburg;49.03319;12.10841;normal
+K-1015;Getränkemarkt Brunner;Getränkemarkt;Dorfstraße 50;93059;Regensburg;49.0266;12.11123;normal
+K-1016;Getränkemarkt Weber;Getränkemarkt;Schulstraße 3;93138;Lappersdorf;49.04222;12.09019;normal
+K-1017;Gasthaus Krone;Gasthaus;Bahnhofstraße 3;93138;Lappersdorf;49.04248;12.08816;normal
+K-1018;Getränkemarkt Zeitler;Getränkemarkt;Ringstraße 32;;Neutraubling;48.98783;12.19851;normal
+K-1019;Getränkemarkt Weber;Getränkemarkt;Dorfstraße 20;93073;Neutraubling;48.98562;12.19416;normal
+K-1020;Kiosk Maier;Kiosk;Lindenweg 42;93073;Neutraubling;48.99028;12.20677;normal
+K-1021;Sportheim SV Regenstauf;Sportheim;Mühlweg 42;93128;Regenstauf;49.12213;12.13319;normal
+K-1022;Sportheim FC Regenstauf;Sportheim;Gartenstraße 25;93128;Regenstauf;49.12492;12.12888;normal
+K-1023;Sportheim SV Regenstauf;Sportheim;Bergstraße 59;93128;Regenstauf;49.1178;12.13038;normal
+K-1024;Gasthaus Zur Linde;Gasthaus;Kirchplatz 34;93080;Pentling;12.06047;48.98465;normal
+K-1025;Sportheim TSV Pentling;Sportheim;Kirchplatz 53;93080;Pentling;48.97812;12.06434;normal
+K-1026;Gasthaus Zur Post;Gasthaus;Ringstraße 45;93083;Obertraubling;48.96588;12.16178;normal
+K-1027;Gasthaus Weißes Rössl;Gasthaus;Bahnhofstraße 56;93083;Obertraubling;48.96257;12.16109;normal
+K-1028;Getränkemarkt Maier;Getränkemarkt;Lindenweg 52;93092;Barbing;49.00024;12.20536;normal
+K-1029;Gasthaus Schwarzer Adler;Gasthaus;Am Anger 59;93105;Tegernheim;49.0245;12.17445;normal
+K-1030;Getränkemarkt Ebner;Getränkemarkt;Mühlweg 54;93093;Donaustauf;49.03027;12.20109;normal
+K-1031;Getränkemarkt Lehner;Getränkemarkt;Kirchplatz 29;93093;Donaustauf;49.03905;12.20441;normal
+K-1032;Sportheim TSV Wenzenbach;Sportheim;Am Anger 40;93173;Wenzenbach;49.07106;12.1864;normal
+K-1033;Sportheim TSV Nittendorf;Sportheim;Dorfstraße 30;93152;Nittendorf;49.01927;11.95329;normal
+K-1034;Sportheim SC Nittendorf;Sportheim;Lindenweg 22;93152;Nittendorf;49.02932;11.95726;normal
+K-1035;Sportheim SV Sinzing;Sportheim;Kirchplatz 11;93161;Sinzing;49.00143;12.03984;normal
+K-1036;Gasthaus Zur Linde;Gasthaus;Dorfstraße 20;93098;Mintraching;48.95374;12.24701;normal
+K-1037;Hotel Stadtgarten;Hotel;Dorfstraße 16;93155;Hemau;49.04976;11.78257;normal
+K-1038;Gasthaus Zur Post;Gasthaus;Marktplatz 23;93155;Hemau;49.05343;11.78414;normal
+K-1039;Sportheim FC Wörth;Sportheim;Marktplatz 51;93086;Wörth a.d. Donau;49.00343;12.40746;normal
+K-1040;Getränkemarkt Brunner;Getränkemarkt;Bahnhofstraße 6;93086;Wörth a.d. Donau;48.99846;12.40563;normal
+K-1041;Getränkemarkt Wild;Getränkemarkt;Gartenstraße 37;93197;Zeitlarn;0.0;0.0;normal
+K-1042;Gasthaus Zur Post;Gasthaus;Dorfstraße 41;93186;Pettendorf;49.06807;12.03948;normal
+K-1043;Hotel Stadtgarten;Hotel;Marktplatz 59;93170;Bernhardswald;49.0952;12.24708;normal
+K-1044;Gasthaus Goldenes Lamm;Gasthaus;Bahnhofstraße 42;93107;Thalmassing;48.91555;12.16134;normal
+K-1045;Getränkemarkt Dirscherl;Getränkemarkt;Am Anger 46;93087;Alteglofsheim;48.9146;12.19635;normal
+K-1046;Kiosk Kraus;Kiosk;Kirchplatz 19;93096;Köfering;48.93475;12.19911;normal
+K-1047;Hotel Donaublick;Hotel;Marktplatz 31;93164;Laaber;49.07549;11.88483;normal
+K-1048;Kiosk Zirngibl;Kiosk;Gartenstraße 9;93176;Beratzhausen;49.09943;11.81078;normal
+K-1049;Kiosk Seidl;Kiosk;Bahnhofstraße 39;93133;Burglengenfeld;49.20649;12.03359;normal
+K-1050;Hotel Am See;Hotel;Am Anger 39;93133;Burglengenfeld;49.21023;12.03551;normal
+K-1051;Hotel Stadtgarten;Hotel;Kirchplatz 39;93142;Maxhütte-Haidhof;49.19815;12.09784;normal
+K-1052;Gasthaus Krone;Gasthaus;Bergstraße 36;93142;Maxhütte-Haidhof;49.19426;12.09065;normal
+K-1053;Gasthaus Krone;Gasthaus;Mühlweg 51;93158;Teublitz;49.22481;12.07878;normal
+K-1054;Hotel Brauhof;Hotel;Hauptstraße 18;92421;Schwandorf;49.33107;12.104;normal
+K-1055;Gasthaus Zur Brücke;Gasthaus;Ringstraße 48;92421;Schwandorf;49.32827;12.11391;normal
+K-1056;Gasthof Zum Stern;Gasthaus;Kirchplatz 53;93051;Regensburg;49.0078;12.0928;normal
